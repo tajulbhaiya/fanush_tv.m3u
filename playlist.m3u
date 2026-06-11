@@ -45,9 +45,6 @@ http://10.220.220.220:8099/ekushy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.132.94.21:8898/img/atnbangla.png" group-title="Bangla", ATN Bangla
 http://10.220.220.220:8099/ATN-Bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIdiz4WmoMKR7foAMqfc2G4-DI9f7Af8_1A&s" group-title="Live Event", Only For live Match
-http://10.220.220.220:8099/Akash-TV/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://103.132.94.21:8898/img/c16.png" group-title="Bangla", Channel-16
 http://10.220.220.220:8099/Channel-16/index.m3u8
 
