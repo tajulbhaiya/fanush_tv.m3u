@@ -168,8 +168,11 @@ http://10.220.220.220:8099/BEIN-SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.cricbuzz.com/a/img/v1/1080x608/i1/c626539/willow-tv-now-available-on-youtube-tv-in-the-us.jpg" group-title="Sports", Willow 2
 http://10.220.220.220:8099/willow-HD-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIdiz4WmoMKR7foAMqfc2G4-DI9f7Af8_1A&s" group-title="Live Event", IPL-FHD
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1280/1280/IMG_6227.png?ve=1&tl=1" group-title="Live Event", IPL-FHD
 http://10.220.220.220:8099/IPL_Bangla_LIveEvents/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1280/1280/IMG_6227.png?ve=1&tl=1" group-title="Live Event", Only For live Match
+http://10.220.220.220:8099/Akash-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://match-images.icdb.tv/9fb2fb77b781aa271d1d14498c236312.jpg" group-title="Sports", Sky Sport 2
 http://10.220.220.220:8099/SKY-Sport-2/index.m3u8
